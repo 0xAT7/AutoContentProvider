@@ -1,5 +1,5 @@
 # Drozer -> run app.provider.finduri paymob.com.abkwallet
-# Add all providers in contents.txt and run python3 autoprovider.py contents.py 
+# Add all providers in contents.txt and run python3 autoprovider.py contents.txt
 # pip install colorama
 
 import subprocess
